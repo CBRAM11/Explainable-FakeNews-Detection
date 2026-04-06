@@ -1,6 +1,5 @@
 # Explainable-FakeNews-Detection
 
-# Explainable Fake News Detection
 
 ## Project Description
 This project aims to build a deep learning system for fake news detection with interpretable outputs. The goal is to classify text as real or fake while providing explanation signals that help users understand the model’s decision.
