@@ -28,4 +28,5 @@ The project will use public fake news detection datasets for text classification
 
 ## Author
 Chathur Buja Ram Bathi  
-Email: your email here
+Email: cbathi@ufl.edu
+
