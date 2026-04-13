@@ -1,0 +1,9 @@
+numpy<2
+pandas
+scikit-learn
+torch
+transformers
+streamlit
+pyarrow
+tqdm
+matplotlib

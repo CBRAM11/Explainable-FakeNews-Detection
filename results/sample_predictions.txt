@@ -1,0 +1,9 @@
+Sample 1
+Input: WASHINGTON (Reuters) - The U.S. Senate approved a new infrastructure bill...
+Prediction: REAL
+Confidence: 0.9981
+
+Sample 2
+Input: Breaking: Scientists have secretly developed a miracle cure...
+Prediction: FAKE
+Confidence: 0.9993

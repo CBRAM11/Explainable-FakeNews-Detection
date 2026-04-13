@@ -1,0 +1,6 @@
+Baseline Accuracy: 0.9785
+DistilBERT Accuracy: 0.9980
+Train Accuracy: 0.998375
+Precision: 0.9956
+Recall: 1.0000
+F1-score: 0.9978
