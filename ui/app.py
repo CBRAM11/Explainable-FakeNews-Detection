@@ -162,7 +162,7 @@ def perturbation_explanation(text, top_k=10):
 
     filtered = [
         (w, s) for w, s in ranked
-        if w.lower() not in stop_words and len(w) > 2
+        if w.lower() not in stop_words and len(w) > 2 and s > 0
     ]
 
     return filtered[:top_k]
@@ -238,6 +238,9 @@ if predict_clicked:
         label, confidence = predict_news(text)
         important_words = perturbation_explanation(text, top_k=8)
         explained_words = explain_words(important_words)
+
+        if confidence < 0.6:
+            st.warning("⚠️ Low confidence prediction. The model is uncertain about this input.")
 
         st.markdown("### Results")
 

@@ -1,0 +1,12 @@
+Deliverable 2:
+- Basic Streamlit interface
+- Raw explanation words
+- No input validation
+- Limited UI structure
+
+Deliverable 3:
+- Improved UI layout and design
+- Filtered explanation words (less noise)
+- Input validation added
+- Low-confidence warning added
+- Better readability and interaction
