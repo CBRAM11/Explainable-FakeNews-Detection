@@ -131,6 +131,13 @@ rather than true semantic understanding of misinformation.
 
 ---
 
+## Deliverable 3 Improvements
+- Improved UI layout and design
+- Cleaner explanation output
+- Added input validation
+- Added low-confidence warning
+- Better user experience
+
 ## Author
 
 Chathur Buja Ram Bathi
